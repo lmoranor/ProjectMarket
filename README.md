@@ -5,6 +5,7 @@
 For this project, I created an interactive dashboard in **Tableau** using sales data from a food supermarket chain. The database was obtained from [Kaggle - Global Online Orders](https://www.kaggle.com/datasets/javierspdatabase/global-online-orders). The dataset contains a large amount of information, including customers, employees, products, and orders placed from **July to October 1996**.
 
 This involved:
+- Perform the database modeling using relationships between the different tables and joins
 - Calculating key performance metrics
 - Applying filters for dynamic insights
 - Selecting visualizations that facilitate decision-making
@@ -25,6 +26,8 @@ Thanks to the generated charts, it is easy to:
 Para este proyecto, creé un **dashboard interactivo en Tableau** para los datos de ventas de una cadena de supermercados de comida. La base de datos se obtuvo desde [Kaggle - Global Online Orders](https://www.kaggle.com/datasets/javierspdatabase/global-online-orders). La base presenta gran cantidad de información incluyendo clientes, empleados, productos y órdenes realizadas desde **julio a octubre de 1996**.
 
 Este proyecto implicó:
+
+- Realizar el modelado de la base de datos utilizando relaciones entre las diferentes tablas y joins
 - Cálculo de medidas clave
 - Aplicación de filtros dinámicos
 - Selección de gráficos adecuados para facilitar el análisis
